@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Sen', sans-serif;
+    font-size: 30px;
+}
+
+
+.elso a{
+    text-decoration: underline;
+    color: green;
+}
+
+.elso a:hover{
+    color: lime;
+    transition: 0.6s ease;
+}
+
+.masodik a{
+    text-decoration: none;
+    color: green;
+}
+
+.masodik a:hover{
+    color: lime;
+    transition: 0.6s ease;
+}
+
+.harmadik a{
+    text-decoration: underline;
+    color: green;
+}
+
+.harmadik a:hover{
+    color: lime;
+    transition: 0.6s ease;
+}
